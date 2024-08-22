@@ -1,0 +1,33 @@
+Welcome to the Enhanced EV Charging Station Finder and Slot Booking System
+Enter your name: John Doe
+
+1. Find Charging Stations
+2. Book a Charging Slot
+3. Exit
+Enter your choice: 1
+
+Enter max distance (in degrees, e.g., 10.0) (or leave blank to skip): 20.0
+Enter the charging speed (Fast/Slow) (or leave blank to skip): Fast
+
+Available Charging Stations:
+- Station A (Fast charging) - 8.34 degrees away, $15.75/hour
+- Station B (Fast charging) - 19.45 degrees away, $20.50/hour
+
+1. Find Charging Stations
+2. Book a Charging Slot
+3. Exit
+Enter your choice: 2
+
+Enter the station name: Station A
+Enter the number of slots you want to book: 2
+
+Booking confirmed for John Doe at Station A for 14:00-15:00, 15:00-16:00.
+Total Price: $31.50
+Confirmation Code: JO1234
+
+1. Find Charging Stations
+2. Book a Charging Slot
+3. Exit
+Enter your choice: 3
+
+Exiting the system. Goodbye!
