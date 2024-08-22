@@ -1,0 +1,21 @@
+Instructions to Run:
+Install Dependencies: Make sure you have colorama installed by running:
+bash
+
+pip install colorama
+Run the Script: Execute the script in your Python environment:
+bash
+
+python ev_charging_station_finder.py
+
+Interact with the System: Follow the on-screen instructions to search for charging stations and book slots.
+
+Overview:
+
+Dynamic Station Generation: The script generates charging stations dynamically, each with different attributes and slot availability.
+Distance Calculation: The script includes a basic distance calculation to simulate proximity filtering.
+Multi-Slot Booking: Users can book multiple slots at a time, and receive a confirmation code.
+Enhanced CLI: The interface is improved with color-coded output and clear instructions.
+This code offers a more complex, interactive, and polished approach, suitable for a hackathon environment where creativity and uniqueness are key.
+
+
